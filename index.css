@@ -2,3 +2,7 @@
   * margin : 0;
   * padding : 0;
   * }
+.heading-1 {
+  font-size : 1.4rem;
+  color : crimson;
+}
